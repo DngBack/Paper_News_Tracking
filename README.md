@@ -11,3 +11,5 @@ Tracking News Paper and Notes
 - CoRAG: Chain-of-Retrieval Augmented Generation [Link](https://arxiv.org/pdf/2501.14342) [Note_vi](./Note/CoRAG/CoRAG_vi.md) [Note_en](./Note/CoRAG/CoRAG_en.md)
 
 - GuardReasoner: Towards Reasoning-based LLM Safeguards [Link](https://arxiv.org/pdf/2501.18492) [Note_vi](./Note/GuardReasoner/GuardReasoner_vi.md) [Note_en](./Note/GuardReasoner/GuardReasoner_en.md)
+
+- DeepRAG: Thinking to Retrieval Step by Step for Large Language Models [Link](https://arxiv.org/pdf/2502.01142)
