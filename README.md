@@ -12,4 +12,6 @@ Tracking News Paper and Notes
 
 - GuardReasoner: Towards Reasoning-based LLM Safeguards [Link](https://arxiv.org/pdf/2501.18492) [Note_vi](./Note/GuardReasoner/GuardReasoner_vi.md) [Note_en](./Note/GuardReasoner/GuardReasoner_en.md)
 
-- DeepRAG: Thinking to Retrieval Step by Step for Large Language Models [Link](https://arxiv.org/pdf/2502.01142)
+- DeepRAG: Thinking to Retrieval Step by Step for Large Language Models [Link](https://arxiv.org/pdf/2502.01142) [Note_vi](./Note/DeepRAG/DeepRAG_vi.md) [Note_en](./Note/DeepRAG/DeepRAG_en.md)
+
+- s1: Simple Test-Time Scaling [Link](https://arxiv.org/pdf/2501.19393) [Note_vi](./Note/s1/s1_vi.md) [Note_en](./Note/s1/s1_en.md)
