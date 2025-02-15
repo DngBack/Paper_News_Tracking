@@ -15,3 +15,5 @@ Tracking News Paper and Notes
 - DeepRAG: Thinking to Retrieval Step by Step for Large Language Models [Link](https://arxiv.org/pdf/2502.01142) [Note_vi](./Note/DeepRAG/DeepRAG_vi.md) [Note_en](./Note/DeepRAG/DeepRAG_en.md)
 
 - s1: Simple Test-Time Scaling [Link](https://arxiv.org/pdf/2501.19393) [Note_vi](./Note/s1/s1_vi.md) [Note_en](./Note/s1/s1_en.md)
+
+- HybridFlow:A Flexible and Efficient RLHF Framework [Link]() [Note_vi](./Note/verl_HybridFlow/hybridflow_vi.md) [Note_en](./Note/verl_HybridFlow/hybridflow_en.md)
