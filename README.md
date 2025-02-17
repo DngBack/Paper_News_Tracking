@@ -21,3 +21,5 @@ Tracking News Paper and Notes
 - LIMO: Less is More for Reasoning [Link](https://arxiv.org/pdf/2502.03387) [Note_vi](./Note/LIMO/LIMO_vi.md) [Note_en](./Note/LIMO/limo_en.md)
 
 - Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate [Link](https://tiger-ai-lab.github.io/CritiqueFineTuning/) [Note_vi](./Note/CritiqueFineTuning/cft_vi.md) [Note_en](./Note/CritiqueFineTuning/cft_en.md)
+
+- Reward-Guided Speculative Decoding for Efficient LLM Reasoning [Link](https://arxiv.org/pdf/2501.19324) [Note_vi](./Note/RSD/rsd_vi.md) [Note_en](./Note/RSD/rsd_en.md)
