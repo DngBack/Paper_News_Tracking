@@ -17,3 +17,5 @@ Tracking News Paper and Notes
 - s1: Simple Test-Time Scaling [Link](https://arxiv.org/pdf/2501.19393) [Note_vi](./Note/s1/s1_vi.md) [Note_en](./Note/s1/s1_en.md)
 
 - HybridFlow:A Flexible and Efficient RLHF Framework [Link]() [Note_vi](./Note/verl_HybridFlow/hybridflow_vi.md) [Note_en](./Note/verl_HybridFlow/hybridflow_en.md)
+
+- LIMO: Less is More for Reasoning [Link](https://arxiv.org/pdf/2502.03387) [Note_vi](./Note/LIMO/LIMO_vi.md) [Note_en](./Note/LIMO/limo_en.md)
