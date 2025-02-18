@@ -28,3 +28,5 @@ Tracking News Paper and Notes
 
 - Satori: Reinforcement Learning with Chain-of-Action-Thought
   Enhances LLM Reasoning via Autoregressive Search [Link](https://arxiv.org/pdf/2502.02508) [Note_vi](./Note/satori/satori_vi.md) [Note_en](./Note/satori/satori_en.md) \*
+
+- Distillation Scaling Laws [Link]() [Note_en](./Note/DistillationScalingLaws/dsl_en.md) [Note_vi](./Note/DistillationScalingLaws/dsl_vi.md)
