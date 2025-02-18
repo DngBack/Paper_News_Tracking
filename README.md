@@ -2,6 +2,8 @@
 
 Tracking News Paper and Notes
 
+**Note**: "\*" in end of paper meaning that paper is good and should read again.
+
 **Format**: [Paper_name] [Link] [Note]
 
 - Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch [Link](https://arxiv.org/pdf/2501.18512)
@@ -23,3 +25,6 @@ Tracking News Paper and Notes
 - Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate [Link](https://tiger-ai-lab.github.io/CritiqueFineTuning/) [Note_vi](./Note/CritiqueFineTuning/cft_vi.md) [Note_en](./Note/CritiqueFineTuning/cft_en.md)
 
 - Reward-Guided Speculative Decoding for Efficient LLM Reasoning [Link](https://arxiv.org/pdf/2501.19324) [Note_vi](./Note/RSD/rsd_vi.md) [Note_en](./Note/RSD/rsd_en.md)
+
+- Satori: Reinforcement Learning with Chain-of-Action-Thought
+  Enhances LLM Reasoning via Autoregressive Search [Link](https://arxiv.org/pdf/2502.02508) [Note_vi](./Note/satori/satori_vi.md) [Note_en](./Note/satori/satori_en.md) \*
