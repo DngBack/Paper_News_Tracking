@@ -2,6 +2,22 @@
 
 Tracking News Paper and Notes
 
+## Paper Tools
+
+### Set up Env
+
+Using python 3.10.13
+
+```bash
+conda create -n paper_sum python=3.10 -y
+
+conda activate paper_sum
+
+pip install -r requirements.txt
+```
+
+## Paper Note
+
 **Note**: "\*" in end of paper meaning that paper is good and should read again.
 
 **Format**: [Paper_name] [Link] [Note]
