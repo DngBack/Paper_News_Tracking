@@ -16,6 +16,16 @@ conda activate paper_sum
 pip install -r requirements.txt
 ```
 
+### Features
+
+- Download and summary Paper by days
+
+### TO DO LIST
+
+- [] Optimize Prompt
+- [] In One Pipeline
+- [] Refactor code (OOP)
+
 ## Paper Note
 
 **Note**: "\*" in end of paper meaning that paper is good and should read again.
