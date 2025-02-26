@@ -43,4 +43,4 @@ def read_and_delete_pdfs(folder_path: str) -> dict:
     
     return pdf_texts
 
-read_and_delete_pdfs("temp_pdfs copy")
+read_and_delete_pdfs("temp_pdfs")

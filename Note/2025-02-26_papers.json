@@ -1,0 +1,92 @@
+[
+  {
+    "title": "OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference",
+    "authors": "Jiaqiwang, Weiyun1025, UniverseCA, ChrisDing1105, PhoenixZ",
+    "link": "https://arxiv.org/abs/2502.18411",
+    "pdf_path": "temp_pdfs\\2502.18411.pdf"
+  },
+  {
+    "title": "SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference",
+    "authors": "Haofeng Huang, surfingtomchen, hxi0408, Xiang-cd, jt-zhang",
+    "link": "https://arxiv.org/abs/2502.18137",
+    "pdf_path": "temp_pdfs\\2502.18137.pdf"
+  },
+  {
+    "title": "KV-Edit: Training-Free Image Editing for Precise Background Preservation",
+    "authors": "Yansong Tang, jewelshaw, shiyi0408, xilluill",
+    "link": "https://arxiv.org/abs/2502.17363",
+    "pdf_path": "temp_pdfs\\2502.17363.pdf"
+  },
+  {
+    "title": "ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation",
+    "authors": "JianminBao, DongChen06, 131131yhx, 2JZ, yifanpu001",
+    "link": "https://arxiv.org/abs/2502.18364",
+    "pdf_path": "temp_pdfs\\2502.18364.pdf"
+  },
+  {
+    "title": "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution",
+    "authors": "RishabhSingh021, gsynnaeve, lingming, JadeCopet, yuxiang630",
+    "link": "https://arxiv.org/abs/2502.18449",
+    "pdf_path": "temp_pdfs\\2502.18449.pdf"
+  },
+  {
+    "title": "Unveiling Downstream Performance Scaling of LLMs: A Clustering-Based Perspective",
+    "authors": "Chenggang Li, Xiao Li, shenke18, Lucky2022, JerryXu98",
+    "link": "https://arxiv.org/abs/2502.17262",
+    "pdf_path": "temp_pdfs\\2502.17262.pdf"
+  },
+  {
+    "title": "Scale-Distribution Decoupling: Enabling Stable and Effective Training of Large Language Models",
+    "authors": "Ya Wang, LLIXQ, xunzhou, Taoer, BryceZhuo",
+    "link": "https://arxiv.org/abs/2502.15499",
+    "pdf_path": "temp_pdfs\\2502.15499.pdf"
+  },
+  {
+    "title": "K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs",
+    "authors": "Qibin Hou, Zhen Li, oyzh2005",
+    "link": "https://arxiv.org/abs/2502.18461",
+    "pdf_path": "temp_pdfs\\2502.18461.pdf"
+  },
+  {
+    "title": "WebGames: Challenging General-Purpose Web-Browsing AI Agents",
+    "authors": "Fraser, semitable, BiggieW, XanderJC, georgethomas",
+    "link": "https://arxiv.org/abs/2502.18356",
+    "pdf_path": "temp_pdfs\\2502.18356.pdf"
+  },
+  {
+    "title": "Introducing Visual Perception Token into Multimodal Large Language Model",
+    "authors": "wxcTest, horseee, rp-yu",
+    "link": "https://arxiv.org/abs/2502.17425",
+    "pdf_path": "temp_pdfs\\2502.17425.pdf"
+  },
+  {
+    "title": "The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?",
+    "authors": "Peijie Dong, Qian Wang, Xiang Liu, wenxinsiju, coolzhtang",
+    "link": "https://arxiv.org/abs/2502.17535",
+    "pdf_path": "temp_pdfs\\2502.17535.pdf"
+  },
+  {
+    "title": "AAD-LLM: Neural Attention-Driven Auditory Scene Understanding",
+    "authors": "Ashesh Mehta, Stephan Bickel, vchoudhari, susameddin, xi-j",
+    "link": "https://arxiv.org/abs/2502.16794",
+    "pdf_path": "temp_pdfs\\2502.16794.pdf"
+  },
+  {
+    "title": "Finding the Sweet Spot: Preference Data Construction for Scaling Preference Optimization",
+    "authors": "Lidong Bing, Hwee Tou Ng, Linyao Chen, Hai Ye, Yao Xiao",
+    "link": "https://arxiv.org/abs/2502.16825",
+    "pdf_path": "temp_pdfs\\2502.16825.pdf"
+  },
+  {
+    "title": "LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models",
+    "authors": "Marcos Treviso, twigs",
+    "link": "https://arxiv.org/abs/2502.15612",
+    "pdf_path": "temp_pdfs\\2502.15612.pdf"
+  },
+  {
+    "title": "Shakti-VLMs: Scalable Vision-Language Models for Enterprise AI",
+    "authors": "KartikAngadi, kruthika, SyedAbdul",
+    "link": "https://arxiv.org/abs/2502.17092",
+    "pdf_path": "temp_pdfs\\2502.17092.pdf"
+  }
+]

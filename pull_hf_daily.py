@@ -113,3 +113,5 @@ def pull_hf_daily() -> None:
     with open(data_file_path, "w") as f:
         json.dump(papers, f, indent=2)
     print(f"Saved {len(papers)} papers' information and PDFs")
+    
+pull_hf_daily()
