@@ -196,7 +196,7 @@ def format_to_markdown_en(sum_text_simple: str) -> str:
     Formats the given summary text into a Markdown-formatted string.
     """
     user_message_content = f"Content: {sum_text_simple}"
-    system_message_content = "Rewrite this text in markdown code. And rewrite it to make it more fluent and coherent. Write Vietnamese."
+    system_message_content = "Rewrite this text in markdown code. And rewrite it to make it more fluent and coherent. Retain some important information: Retain the title of the article in English, an overview of what the article offers, the contributions of the article, an overview of the results and the methods they perform  Keep Write Vietnamese."
     messages = [
             {"role": "system", "content": system_message_content},
             {"role": "user", "content": user_message_content}
