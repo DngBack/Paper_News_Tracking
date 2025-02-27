@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Kanana: Compute-efficient Bilingual Language Models",
+    "authors": "Doohae, daniel-rl2, jiyeonham, bzantium, yunjubak63",
+    "link": "https://arxiv.org/abs/2502.18934",
+    "pdf_path": "temp_pdfs\\2502.18934.pdf"
+  },
+  {
+    "title": "GHOST 2.0: generative high-fidelity one shot transfer of heads",
+    "authors": "Pavel Paramonov, Alexander Groshev, kuznetsoffandrey, dendimitrov, nastasia-y",
+    "link": "https://arxiv.org/abs/2502.18417",
+    "pdf_path": "temp_pdfs\\2502.18417.pdf"
+  },
+  {
+    "title": "TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding",
+    "authors": "Jonathan Leung, AlvinYuVotee, KrishKrosh, chongcht, vinesmsuic",
+    "link": "https://arxiv.org/abs/2502.19400",
+    "pdf_path": "temp_pdfs\\2502.19400.pdf"
+  },
+  {
+    "title": "Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems",
+    "authors": "Bin Xu, Zijun Yao, Xiaozhi Wang, Yunjia Qi, Hao Peng",
+    "link": "https://arxiv.org/abs/2502.19328",
+    "pdf_path": "temp_pdfs\\2502.19328.pdf"
+  },
+  {
+    "title": "Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?",
+    "authors": "Weixun Wang, Jiaheng Liu, Shilong Li, Yancheng He, zhangysk",
+    "link": "https://arxiv.org/abs/2502.19361",
+    "pdf_path": "temp_pdfs\\2502.19361.pdf"
+  },
+  {
+    "title": "Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation",
+    "authors": "Jonas Geiping, Ponnurangam Kumaraguru, Shashwat Goel, AmeyaPrabhu, shivensinha4",
+    "link": "https://arxiv.org/abs/2502.19414",
+    "pdf_path": "temp_pdfs\\2502.19414.pdf"
+  },
+  {
+    "title": "Plutus: Benchmarking Large Language Models in Low-Resource Greek Finance",
+    "authors": "Polydoros Giannouris, Efstathia Soufleri, Triantafillos Papadopoulos, Xueqing Peng, jiminHuang",
+    "link": "https://arxiv.org/abs/2502.18772",
+    "pdf_path": "temp_pdfs\\2502.18772.pdf"
+  },
+  {
+    "title": "Towards an AI co-scientist",
+    "authors": "Anil Palepu, Tao Tu, Alexander Daryin, Wei-Hung Weng, Juraj Gottweis",
+    "link": "https://arxiv.org/abs/2502.18864",
+    "pdf_path": "temp_pdfs\\2502.18864.pdf"
+  },
+  {
+    "title": "Language Models' Factuality Depends on the Language of Inquiry",
+    "authors": "Hamid Palangi, Kumar Ayush, Kumar Tanmay, ayush1801, AggarwalTushar",
+    "link": "https://arxiv.org/abs/2502.17955",
+    "pdf_path": "temp_pdfs\\2502.17955.pdf"
+  },
+  {
+    "title": "Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs",
+    "authors": "Andreas Hochlehnert, Tawsif Ahmed, Christoph Schuhmann, AmeyaPrabhu, tourist800",
+    "link": "https://arxiv.org/abs/2502.19413",
+    "pdf_path": "temp_pdfs\\2502.19413.pdf"
+  },
+  {
+    "title": "Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator",
+    "authors": "Ying Cui, Ruibo Li, Hongji Li, Dongyan Guo, Xiankang He",
+    "link": "https://arxiv.org/abs/2502.19204",
+    "pdf_path": "temp_pdfs\\2502.19204.pdf"
+  },
+  {
+    "title": "VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model",
+    "authors": "Lingrui Mei, Lu Wang, Jiani Zheng, vyokky, keanudicap",
+    "link": "https://arxiv.org/abs/2502.18906",
+    "pdf_path": "temp_pdfs\\2502.18906.pdf"
+  },
+  {
+    "title": "BIG-Bench Extra Hard",
+    "authors": "Chrysovalantis Anastasiou, John Palowitch, Hritik Bansal, Mehran Kazemi, baharefatemi",
+    "link": "https://arxiv.org/abs/2502.19187",
+    "pdf_path": "temp_pdfs\\2502.19187.pdf"
+  },
+  {
+    "title": "AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement",
+    "authors": "Xijie Huang, Junxiao Yang, Leqi Lei, Zhexin Zhang, LLLeo612",
+    "link": "https://arxiv.org/abs/2502.16776",
+    "pdf_path": "temp_pdfs\\2502.16776.pdf"
+  },
+  {
+    "title": "Rank1: Test-Time Compute for Reranking in Information Retrieval",
+    "authors": "Dawn Lawrie, Andrew Yates, Eugene Yang, Kathryn Ricci, Orion Weller",
+    "link": "https://arxiv.org/abs/2502.18418",
+    "pdf_path": "temp_pdfs\\2502.18418.pdf"
+  },
+  {
+    "title": "CritiQ: Mining Data Quality Criteria from Human Preferences",
+    "authors": "Zhiheng Xi, Tianyi Liang, Qipeng Guo, Kai Lv, KYLN24",
+    "link": "https://arxiv.org/abs/2502.19279",
+    "pdf_path": "temp_pdfs\\2502.19279.pdf"
+  },
+  {
+    "title": "MolSpectra: Pre-training 3D Molecular Representation with Multi-modal Energy Spectra",
+    "authors": "Qiang Liu, Deli Zhao, Yu Rong, Shaozhen Liu, AzureLeon1",
+    "link": "https://arxiv.org/abs/2502.16284",
+    "pdf_path": "temp_pdfs\\2502.16284.pdf"
+  },
+  {
+    "title": "Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization",
+    "authors": "Rio Yokota, Yusuke Oda, Kazuki Fujii, Takuya Akiba, Taishi Nakamura",
+    "link": "https://arxiv.org/abs/2502.19261",
+    "pdf_path": "temp_pdfs\\2502.19261.pdf"
+  },
+  {
+    "title": "PosterSum: A Multimodal Benchmark for Scientific Poster Summarization",
+    "authors": "Frank Keller, Pasquale Minervini, rohitsaxena",
+    "link": "https://arxiv.org/abs/2502.17540",
+    "pdf_path": "temp_pdfs\\2502.17540.pdf"
+  },
+  {
+    "title": "DOEI: Dual Optimization of Embedding Information for Attention-Enhanced Class Activation Maps",
+    "authors": "Shimin Wen, Xu Wang, Guansong Pang, Hongjie Zhu, SteveZeyuZhang",
+    "link": "https://arxiv.org/abs/2502.15885",
+    "pdf_path": "temp_pdfs\\2502.15885.pdf"
+  }
+]
