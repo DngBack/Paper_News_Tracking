@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Self-rewarding correction for mathematical reasoning",
+    "authors": "Wei Xiong, nanjiang, Lichang-Chen, Chenlu123, HanningZhang",
+    "link": "https://arxiv.org/abs/2502.19613",
+    "pdf_path": "temp_pdfs\\2502.19613.pdf"
+  },
+  {
+    "title": "MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning",
+    "authors": "ellivreksaB, jiayuanz3, fenglinliu, morson, che111",
+    "link": "https://arxiv.org/abs/2502.19634",
+    "pdf_path": "temp_pdfs\\2502.19634.pdf"
+  },
+  {
+    "title": "R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts",
+    "authors": "Ziyue Li, zhoutianyi, Lzy01241010",
+    "link": "https://arxiv.org/abs/2502.20395",
+    "pdf_path": "temp_pdfs\\2502.20395.pdf"
+  },
+  {
+    "title": "LongRoPE2: Near-Lossless LLM Context Window Scaling",
+    "authors": "lgg, gaokaiz2, OldKingMeister, lynazhang, J-shang",
+    "link": "https://arxiv.org/abs/2502.20082",
+    "pdf_path": "temp_pdfs\\2502.20082.pdf"
+  },
+  {
+    "title": "FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving",
+    "authors": "anhtuanluu36, LidongBing, lukecq, weiwenxu, Guizhen",
+    "link": "https://arxiv.org/abs/2502.20238",
+    "pdf_path": "temp_pdfs\\2502.20238.pdf"
+  },
+  {
+    "title": "CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale",
+    "authors": "fjchendp, yxy0807, zx10086, chuzy, Wildxxxxx75",
+    "link": "https://arxiv.org/abs/2502.16645",
+    "pdf_path": "temp_pdfs\\2502.16645.pdf"
+  },
+  {
+    "title": "UniTok: A Unified Tokenizer for Visual Generation and Understanding",
+    "authors": "Yi Jiang, sweetrabor, jihanyang, JunfengWu, cfma",
+    "link": "https://arxiv.org/abs/2502.20321",
+    "pdf_path": "temp_pdfs\\2502.20321.pdf"
+  },
+  {
+    "title": "NeoBERT: A Next-Generation BERT",
+    "authors": "Quentin Fournier, apsarath, mariamelm, Lolalb",
+    "link": "https://arxiv.org/abs/2502.19587",
+    "pdf_path": "temp_pdfs\\2502.19587.pdf"
+  },
+  {
+    "title": "Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think",
+    "authors": "JustinLin610, akarinmoe, wchai, bluelike, liangchen-ms",
+    "link": "https://arxiv.org/abs/2502.20172",
+    "pdf_path": "temp_pdfs\\2502.20172.pdf"
+  },
+  {
+    "title": "Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance",
+    "authors": "Eliblo1969, ZhixuLi, keanudicap, LuWang, LanceZomax",
+    "link": "https://arxiv.org/abs/2502.16944",
+    "pdf_path": "temp_pdfs\\2502.16944.pdf"
+  },
+  {
+    "title": "FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute",
+    "authors": "Markos Georgopoulos, Jonaskohler, YeongminKim, gregorbachmann, sanagnos",
+    "link": "https://arxiv.org/abs/2502.20126",
+    "pdf_path": "temp_pdfs\\2502.20126.pdf"
+  },
+  {
+    "title": "Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System",
+    "authors": "Shehnaz Khaled, Rafiul Islam, Mostafizur Rahman, Jafor, AlignAI",
+    "link": "https://arxiv.org/abs/2502.16750",
+    "pdf_path": "temp_pdfs\\2502.16750.pdf"
+  },
+  {
+    "title": "Mobius: Text to Seamless Looping Video Generation via Latent Shift",
+    "authors": "Yong Zhang, Bo Liu, Jianfei Yuan, Xiuli Bi, vinthony",
+    "link": "https://arxiv.org/abs/2502.20307",
+    "pdf_path": "temp_pdfs\\2502.20307.pdf"
+  },
+  {
+    "title": "SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning",
+    "authors": "Yanzhen Zou, Xiangxin Meng, PengFeiGao, pengchao, mizersy",
+    "link": "https://arxiv.org/abs/2502.20127",
+    "pdf_path": "temp_pdfs\\2502.20127.pdf"
+  },
+  {
+    "title": "Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting",
+    "authors": "thuhsy, JunfengNi, JasonAplp, BuzzBeater, YuLiu",
+    "link": "https://arxiv.org/abs/2502.19459",
+    "pdf_path": "temp_pdfs\\2502.19459.pdf"
+  },
+  {
+    "title": "R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning",
+    "authors": "Shimin Tao, BoxingChen, weibinmeng, liuyilun2000, boommmmm",
+    "link": "https://arxiv.org/abs/2502.19735",
+    "pdf_path": "temp_pdfs\\2502.19735.pdf"
+  },
+  {
+    "title": "Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation",
+    "authors": "Alan Yuille, Xiaohui Shen, Ju He, Qihang Yu, Sucheng Ren",
+    "link": "https://arxiv.org/abs/2502.20388",
+    "pdf_path": "temp_pdfs\\2502.20388.pdf"
+  },
+  {
+    "title": "On Relation-Specific Neurons in Large Language Models",
+    "authors": "kargaranamir, adhakimi, hirlimann, Runsheng, yihongLiu",
+    "link": "https://arxiv.org/abs/2502.17355",
+    "pdf_path": "temp_pdfs\\2502.17355.pdf"
+  },
+  {
+    "title": "Training Consistency Models with Variational Noise Coupling",
+    "authors": "Chieh-Hsin Lai, Luca Ambrogioni, mittu1204, ytakida, gisilvs",
+    "link": "https://arxiv.org/abs/2502.18197",
+    "pdf_path": "temp_pdfs\\2502.18197.pdf"
+  },
+  {
+    "title": "PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving",
+    "authors": "Long Le, Yanfei Chen, Palash Goyal, Xin Liu, Mihir Parmar",
+    "link": "https://arxiv.org/abs/2502.16111",
+    "pdf_path": "temp_pdfs\\2502.16111.pdf"
+  },
+  {
+    "title": "Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling",
+    "authors": "wxcTest, adamdad, imsuperkong",
+    "link": "https://arxiv.org/abs/2502.20378",
+    "pdf_path": "temp_pdfs\\2502.20378.pdf"
+  }
+]
