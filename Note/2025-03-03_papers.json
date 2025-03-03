@@ -1,0 +1,92 @@
+[
+  {
+    "title": "DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking",
+    "authors": "luyaojie, sanmusunrise, xuanang, yhycai, lzq2021",
+    "link": "https://arxiv.org/abs/2502.20730",
+    "pdf_path": "temp_pdfs\\2502.20730.pdf"
+  },
+  {
+    "title": "Chain of Draft: Thinking Faster by Writing Less",
+    "authors": "Lingxiao Zhao, Wenhao Xie, DeBERTa, sileixu",
+    "link": "https://arxiv.org/abs/2502.18600",
+    "pdf_path": "temp_pdfs\\2502.18600.pdf"
+  },
+  {
+    "title": "How far can we go with ImageNet for Text-to-Image generation?",
+    "authors": "V. Kalogeiton, D. Picard, N. Dufour, L. Degeorge, arijitghosh",
+    "link": "https://arxiv.org/abs/2502.21318",
+    "pdf_path": "temp_pdfs\\2502.21318.pdf"
+  },
+  {
+    "title": "ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents",
+    "authors": "xpjandy, shihang, vickywu, lovesnowbest, autumncc",
+    "link": "https://arxiv.org/abs/2502.18017",
+    "pdf_path": "temp_pdfs\\2502.18017.pdf"
+  },
+  {
+    "title": "SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers",
+    "authors": "Coralia Cartis, Wenqi Zhu, Kechen Li, Shiweiliuiiiiiii, jitianbo",
+    "link": "https://arxiv.org/abs/2502.20545",
+    "pdf_path": "temp_pdfs\\2502.20545.pdf"
+  },
+  {
+    "title": "Optimal Brain Apoptosis",
+    "authors": "Delei Kong, Junjie Jiang, Jiaxu Wang, Zheng Fang, Mingyuan Sun",
+    "link": "https://arxiv.org/abs/2502.17941",
+    "pdf_path": "temp_pdfs\\2502.17941.pdf"
+  },
+  {
+    "title": "Tell me why: Visual foundation models as self-explainable classifiers",
+    "authors": "Christian Lovis, Gianmarco Mengaldo, Mina Bjelogrlic, hturbe",
+    "link": "https://arxiv.org/abs/2502.19577",
+    "pdf_path": "temp_pdfs\\2502.19577.pdf"
+  },
+  {
+    "title": "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids",
+    "authors": "Yuke Zhu, Linxi Fan, Kartik Sachdev, Toru Lin, jitendra1995",
+    "link": "https://arxiv.org/abs/2502.20396",
+    "pdf_path": "temp_pdfs\\2502.20396.pdf"
+  },
+  {
+    "title": "LiteASR: Efficient Automatic Speech Recognition with Low-Rank Approximation",
+    "authors": "kasikci, kojimano, jungok, kamahori",
+    "link": "https://arxiv.org/abs/2502.20583",
+    "pdf_path": "temp_pdfs\\2502.20583.pdf"
+  },
+  {
+    "title": "TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval",
+    "authors": "Madhav Kashyap, Xiaoxiang Shi, Yiyu Liu, Keisuke Kamahori, Chien-Yu Lin",
+    "link": "https://arxiv.org/abs/2502.20969",
+    "pdf_path": "temp_pdfs\\2502.20969.pdf"
+  },
+  {
+    "title": "MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing",
+    "authors": "Yuanzhuo Wang, Yige Yuan, Bingbing Xu, Xueyun Tian, Wiley085",
+    "link": "https://arxiv.org/abs/2502.21291",
+    "pdf_path": "temp_pdfs\\2502.21291.pdf"
+  },
+  {
+    "title": "LettuceDetect: A Hallucination Detection Framework for RAG Applications",
+    "authors": "G\u00e1bor Recski, adaamko",
+    "link": "https://arxiv.org/abs/2502.17125",
+    "pdf_path": "temp_pdfs\\2502.17125.pdf"
+  },
+  {
+    "title": "EgoNormia: Benchmarking Physical Social Norm Understanding",
+    "authors": "Yanzhe Zhang, Caleb Ziems, Phil Cuvin, Yicheng Fu, mhr2004",
+    "link": "https://arxiv.org/abs/2502.20490",
+    "pdf_path": "temp_pdfs\\2502.20490.pdf"
+  },
+  {
+    "title": "DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping",
+    "authors": "Ceyao Zhang, Ruochong Li, Xuchuan Huang, Yifan Zhong, yuanpei",
+    "link": "https://arxiv.org/abs/2502.20900",
+    "pdf_path": "temp_pdfs\\2502.20900.pdf"
+  },
+  {
+    "title": "HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models",
+    "authors": "Fuzheng Zhang, Yuanxing Zhang, Jingyun Hua, Xiao Wang, lwher1996",
+    "link": "https://arxiv.org/abs/2502.20811",
+    "pdf_path": "temp_pdfs\\2502.20811.pdf"
+  }
+]
