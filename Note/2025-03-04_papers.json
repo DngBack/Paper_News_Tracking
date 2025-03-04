@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Visual-RFT: Visual Reinforcement Fine-Tuning",
+    "authors": "yhcao, sweetFruit, yuhangzang, Zery, ziyuliu",
+    "link": "https://arxiv.org/abs/2503.01785",
+    "pdf_path": "temp_pdfs\\2503.01785.pdf"
+  },
+  {
+    "title": "Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models",
+    "authors": "zgojcic, AnalMom, xrenaa, hturki, jayw",
+    "link": "https://arxiv.org/abs/2503.01774",
+    "pdf_path": "temp_pdfs\\2503.01774.pdf"
+  },
+  {
+    "title": "Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs",
+    "authors": "vishravmsft, martincai, alonbenhaim, jianmin-ustc, atabakashfaqMSFT",
+    "link": "https://arxiv.org/abs/2503.01743",
+    "pdf_path": "temp_pdfs\\2503.01743.pdf"
+  },
+  {
+    "title": "OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment",
+    "authors": "GuoruiZhou, DingWF, caikuo, oneself, OrpheusBetter",
+    "link": "https://arxiv.org/abs/2502.18965",
+    "pdf_path": "temp_pdfs\\2502.18965.pdf"
+  },
+  {
+    "title": "When an LLM is apprehensive about its answers -- and when its uncertainty is justified",
+    "authors": "Alexey Zaytsev, Edvard Khalafyan, DanielVyazhev, aigoncharov, sspetya",
+    "link": "https://arxiv.org/abs/2503.01688",
+    "pdf_path": "temp_pdfs\\2503.01688.pdf"
+  },
+  {
+    "title": "DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion",
+    "authors": "Guobin Ma, Chunbo Hao, Yuepeng Jiang, Huakang Chen, Ziqian Ning",
+    "link": "https://arxiv.org/abs/2503.01183",
+    "pdf_path": "temp_pdfs\\2503.01183.pdf"
+  },
+  {
+    "title": "Liger: Linearizing Large Language Models to Gated Recurrent Structures",
+    "authors": "Yu Cheng, JusenK, Jiaxihu2, weigao266, landisen",
+    "link": "https://arxiv.org/abs/2503.01496",
+    "pdf_path": "temp_pdfs\\2503.01496.pdf"
+  },
+  {
+    "title": "Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions",
+    "authors": "Xiaohui He, Jia Chen, aiqy, haitaoli, qian",
+    "link": "https://arxiv.org/abs/2503.00501",
+    "pdf_path": "temp_pdfs\\2503.00501.pdf"
+  },
+  {
+    "title": "Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs",
+    "authors": "ngoodman, nlile, Asap7772, ayushchakravarthy, obiwan96",
+    "link": "https://arxiv.org/abs/2503.01307",
+    "pdf_path": "temp_pdfs\\2503.01307.pdf"
+  },
+  {
+    "title": "Speculative Ad-hoc Querying",
+    "authors": "Venkat Arun, Aditya Akella, Maria Angels de Luis Balaguer, Srikanth Kandula, Haoyu0529",
+    "link": "https://arxiv.org/abs/2503.00714",
+    "pdf_path": "temp_pdfs\\2503.00714.pdf"
+  },
+  {
+    "title": "DuoDecoding: Hardware-aware Heterogeneous Speculative Decoding with Dynamic Multi-Sequence Drafting",
+    "authors": "xpqiu, QipengGuo, KYLN24, KaiLv",
+    "link": "https://arxiv.org/abs/2503.00784",
+    "pdf_path": "temp_pdfs\\2503.00784.pdf"
+  },
+  {
+    "title": "SampleMix: A Sample-wise Pre-training Data Mixing Strategey by Coordinating Data Quality and Diversity",
+    "authors": "bitwjg, WeiWang, WQYC, DeyangKong, xixy",
+    "link": "https://arxiv.org/abs/2503.01506",
+    "pdf_path": "temp_pdfs\\2503.01506.pdf"
+  },
+  {
+    "title": "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation",
+    "authors": "yingcongchen, Xxlbigbrother, StarYDY, MeixiChen, LTT",
+    "link": "https://arxiv.org/abs/2503.01370",
+    "pdf_path": "temp_pdfs\\2503.01370.pdf"
+  },
+  {
+    "title": "From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens",
+    "authors": "Yuxuan Wang, zlzheng, vickyandkekey, JunzheS, TongWu",
+    "link": "https://arxiv.org/abs/2502.18890",
+    "pdf_path": "temp_pdfs\\2502.18890.pdf"
+  },
+  {
+    "title": "Large-Scale Data Selection for Instruction Tuning",
+    "authors": "pradeepd, pangwei, faezeb, nanami, hamishivi",
+    "link": "https://arxiv.org/abs/2503.01807",
+    "pdf_path": "temp_pdfs\\2503.01807.pdf"
+  },
+  {
+    "title": "Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia",
+    "authors": "Lang Gao, Zhongyu Wei, Ziruibest, Carol0110, Aurora-cx",
+    "link": "https://arxiv.org/abs/2503.01714",
+    "pdf_path": "temp_pdfs\\2503.01714.pdf"
+  },
+  {
+    "title": "CodeArena: A Collective Evaluation Platform for LLM Code Generation",
+    "authors": "terryyz, DongHuang-ebay, bobxwu, anhtuanluu36, Elfsong",
+    "link": "https://arxiv.org/abs/2503.01295",
+    "pdf_path": "temp_pdfs\\2503.01295.pdf"
+  },
+  {
+    "title": "PodAgent: A Comprehensive Framework for Podcast Generation",
+    "authors": "Tan Lee, Fenglong Xie, Haohan Guo, Lei He, Yujia Xiao",
+    "link": "https://arxiv.org/abs/2503.00455",
+    "pdf_path": "temp_pdfs\\2503.00455.pdf"
+  },
+  {
+    "title": "VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation",
+    "authors": "Yi Yang, WenhaoWang",
+    "link": "https://arxiv.org/abs/2503.01739",
+    "pdf_path": "temp_pdfs\\2503.01739.pdf"
+  },
+  {
+    "title": "General Reasoning Requires Learning to Reason from the Get-go",
+    "authors": "Pulkit Agrawal, Jyothish Pari, Seungwook Han, hanseungwook",
+    "link": "https://arxiv.org/abs/2502.19402",
+    "pdf_path": "temp_pdfs\\2502.19402.pdf"
+  },
+  {
+    "title": "Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model",
+    "authors": "Jianan Wang, Xili Dai, xyyue, qixianbiao, yxuan",
+    "link": "https://arxiv.org/abs/2502.16779",
+    "pdf_path": "temp_pdfs\\2502.16779.pdf"
+  },
+  {
+    "title": "Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator",
+    "authors": "mingyuliutw, gdhe17, HuayuChen, Ema11, worstcoder",
+    "link": "https://arxiv.org/abs/2503.01103",
+    "pdf_path": "temp_pdfs\\2503.01103.pdf"
+  },
+  {
+    "title": "AI-Invented Tonal Languages: Preventing a Machine Lingua Franca Beyond Human Understanding",
+    "authors": "dnoever",
+    "link": "https://arxiv.org/abs/2503.01063",
+    "pdf_path": "temp_pdfs\\2503.01063.pdf"
+  },
+  {
+    "title": "CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments",
+    "authors": "Qing Zhao, Zhixin Mai, Yiming Zhao, Ge Wang, SP4595",
+    "link": "https://arxiv.org/abs/2503.00729",
+    "pdf_path": "temp_pdfs\\2503.00729.pdf"
+  }
+]
