@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers",
+    "authors": "LidongBing, maljunied, jhying, lukecq, Yiran0924",
+    "link": "https://arxiv.org/abs/2503.00865",
+    "pdf_path": "temp_pdfs\\2503.00865.pdf"
+  },
+  {
+    "title": "ABC: Achieving Better Control of Multimodal Embeddings using VLMs",
+    "authors": "Florian Kerschbaum, Benjamin Schneider, wenhu",
+    "link": "https://arxiv.org/abs/2503.00329",
+    "pdf_path": "temp_pdfs\\2503.00329.pdf"
+  },
+  {
+    "title": "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control",
+    "authors": "Yifan Lu, Huan Ling, Jiahui Huang, Tianchang Shen, xrenaa",
+    "link": "https://arxiv.org/abs/2503.03751",
+    "pdf_path": "temp_pdfs\\2503.03751.pdf"
+  },
+  {
+    "title": "KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding",
+    "authors": "Radha Poovendran, mingyuanzhou, yyqoni, nlpyang, flydust",
+    "link": "https://arxiv.org/abs/2503.02951",
+    "pdf_path": "temp_pdfs\\2503.02951.pdf"
+  },
+  {
+    "title": "Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions",
+    "authors": "Cosmin I. Bercea, Rossella Arcucci, Wenjia Bai, Jun Li, che111",
+    "link": "https://arxiv.org/abs/2503.03278",
+    "pdf_path": "temp_pdfs\\2503.03278.pdf"
+  },
+  {
+    "title": "CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom",
+    "authors": "Pan Zhou, Wenxuan Shen, Lingfeng Yang, shuaishuaicdp, yisenL",
+    "link": "https://arxiv.org/abs/2503.01836",
+    "pdf_path": "temp_pdfs\\2503.01836.pdf"
+  },
+  {
+    "title": "Process-based Self-Rewarding Language Models",
+    "authors": "Zheheng Luo, Junxiao Liu, Xin Zhang, Shimao Zhang, lx865712528",
+    "link": "https://arxiv.org/abs/2503.03746",
+    "pdf_path": "temp_pdfs\\2503.03746.pdf"
+  },
+  {
+    "title": "QE4PE: Word-level Quality Estimation for Human Post-Editing",
+    "authors": "Malvina Nissim, Ana Guerberof-Arenas, Grzegorz Chrupa\u0142a, Vil\u00e9m Zouhar, gsarti",
+    "link": "https://arxiv.org/abs/2503.03044",
+    "pdf_path": "temp_pdfs\\2503.03044.pdf"
+  },
+  {
+    "title": "Fine-Tuning Small Language Models for Domain-Specific AI: An Edge AI Perspective",
+    "authors": "KartikAngadi, kruthika, SyedAbdul, RakshitAralimatti",
+    "link": "https://arxiv.org/abs/2503.01933",
+    "pdf_path": "temp_pdfs\\2503.01933.pdf"
+  },
+  {
+    "title": "Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases",
+    "authors": "Ryan A. Rossi, Haoyu Han, Yongjia Lei, mhalappa, Franck-Dernoncourt",
+    "link": "https://arxiv.org/abs/2502.20317",
+    "pdf_path": "temp_pdfs\\2502.20317.pdf"
+  },
+  {
+    "title": "Exploring Rewriting Approaches for Different Conversational Tasks",
+    "authors": "Xiang Chen, Mike Rimer, Ryan A. Rossi, Md Mehrab Tanjim, Franck-Dernoncourt",
+    "link": "https://arxiv.org/abs/2502.18860",
+    "pdf_path": "temp_pdfs\\2502.18860.pdf"
+  },
+  {
+    "title": "Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models",
+    "authors": "Shuaiqiang Wang, Pengjie Ren, Lingyong Yan, Yuhan Wang, Zhengliang Shi",
+    "link": "https://arxiv.org/abs/2503.01763",
+    "pdf_path": "temp_pdfs\\2503.01763.pdf"
+  },
+  {
+    "title": "FLAME: A Federated Learning Benchmark for Robotic Manipulation",
+    "authors": "Danica Kragic, Yuchong Zhang, Miguel Vasco, Alberta Longhini, Santiago Bou Betran",
+    "link": "https://arxiv.org/abs/2503.01729",
+    "pdf_path": "temp_pdfs\\2503.01729.pdf"
+  },
+  {
+    "title": "Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection",
+    "authors": "Hung Nguyen, Martin Weyssow, Yindu Su, Chengran Yang, Ting Zhang",
+    "link": "https://arxiv.org/abs/2503.01449",
+    "pdf_path": "temp_pdfs\\2503.01449.pdf"
+  },
+  {
+    "title": "CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs",
+    "authors": "Muhammad Haris Khan, Valerii Serpiva, yasheerahyaqoot, Sauten, ArtemLykov",
+    "link": "https://arxiv.org/abs/2503.01378",
+    "pdf_path": "temp_pdfs\\2503.01378.pdf"
+  },
+  {
+    "title": "Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions",
+    "authors": "Jiaqi Liu, jiansun-china, zafkiellc, Shinghoi, FanGShiYuu",
+    "link": "https://arxiv.org/abs/2503.00502",
+    "pdf_path": "temp_pdfs\\2503.00502.pdf"
+  },
+  {
+    "title": "SwiLTra-Bench: The Swiss Legal Translation Benchmark",
+    "authors": "spalombo, CharizardAcademy, SinaAhmadi, lukanen, joelniklaus",
+    "link": "https://arxiv.org/abs/2503.01372",
+    "pdf_path": "temp_pdfs\\2503.01372.pdf"
+  }
+]
