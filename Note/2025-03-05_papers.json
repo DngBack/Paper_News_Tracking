@@ -1,0 +1,134 @@
+[
+  {
+    "title": "MPO: Boosting LLM Agents with Meta Plan Optimization",
+    "authors": "sujianli, songff, Adagio, Rsy24, xwm",
+    "link": "https://arxiv.org/abs/2503.02682",
+    "pdf_path": "temp_pdfs\\2503.02682.pdf"
+  },
+  {
+    "title": "Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs",
+    "authors": "Kai Chen, Chengqi Lyu, lindahua, ZwwWayne, vanilla1116",
+    "link": "https://arxiv.org/abs/2503.02846",
+    "pdf_path": "temp_pdfs\\2503.02846.pdf"
+  },
+  {
+    "title": "Wikipedia in the Era of LLMs: Evolution and Risks",
+    "authors": "Yao Wan, fjchendp, mgeng, sdzzxyl, hsm316",
+    "link": "https://arxiv.org/abs/2503.02879",
+    "pdf_path": "temp_pdfs\\2503.02879.pdf"
+  },
+  {
+    "title": "LADDER: Self-Improving LLMs Through Recursive Problem Decomposition",
+    "authors": "akiray1, TamasSimonds",
+    "link": "https://arxiv.org/abs/2503.00735",
+    "pdf_path": "temp_pdfs\\2503.00735.pdf"
+  },
+  {
+    "title": "PipeOffload: Improving Scalability of Pipeline Parallelism with Memory Optimization",
+    "authors": "Min Lin, Xinyi Wan, JialinLi, huanggx-sea, QPHutu",
+    "link": "https://arxiv.org/abs/2503.01328",
+    "pdf_path": "temp_pdfs\\2503.01328.pdf"
+  },
+  {
+    "title": "MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents",
+    "authors": "mikewang, ShuyiGuo, Thomas-X-Yang, zhaochenhong, Leozkl",
+    "link": "https://arxiv.org/abs/2503.01935",
+    "pdf_path": "temp_pdfs\\2503.01935.pdf"
+  },
+  {
+    "title": "Iterative Value Function Optimization for Guided Decoding",
+    "authors": "Ruizhe Chen, jokephp, ab3223323, lljhbxt, zhliu",
+    "link": "https://arxiv.org/abs/2503.02368",
+    "pdf_path": "temp_pdfs\\2503.02368.pdf"
+  },
+  {
+    "title": "SemViQA: A Semantic Question Answering System for Vietnamese Information Fact-Checking",
+    "authors": "Thanh T. Tran, ThanhDi, TienAnh, xuandin, DavidNguyen",
+    "link": "https://arxiv.org/abs/2503.00955",
+    "pdf_path": "temp_pdfs\\2503.00955.pdf"
+  },
+  {
+    "title": "FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling",
+    "authors": "yuxuanli, zwl96, hyx21, ThonyPan, Achazwl",
+    "link": "https://arxiv.org/abs/2502.14856",
+    "pdf_path": "temp_pdfs\\2502.14856.pdf"
+  },
+  {
+    "title": "ATLaS: Agent Tuning via Learning Critical Steps",
+    "authors": "Yuxuan Huang, Ming Li, Zhixun Chen, zhoutianyi, YaliDU",
+    "link": "https://arxiv.org/abs/2503.02197",
+    "pdf_path": "temp_pdfs\\2503.02197.pdf"
+  },
+  {
+    "title": "Language Models can Self-Improve at State-Value Estimation for Better Search",
+    "authors": "rittera, emendes3",
+    "link": "https://arxiv.org/abs/2503.02878",
+    "pdf_path": "temp_pdfs\\2503.02878.pdf"
+  },
+  {
+    "title": "RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification",
+    "authors": "Liang Hou, dizhang, wileewang, PaulSHEN1, YZCS",
+    "link": "https://arxiv.org/abs/2503.02537",
+    "pdf_path": "temp_pdfs\\2503.02537.pdf"
+  },
+  {
+    "title": "UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface",
+    "authors": "windmillknight, Shawnee-bxy, Haiyang-W, chenweix7, kanashi6",
+    "link": "https://arxiv.org/abs/2503.01342",
+    "pdf_path": "temp_pdfs\\2503.01342.pdf"
+  },
+  {
+    "title": "Improve Representation for Imbalanced Regression through Geometric Constraints",
+    "authors": "Yichi Zhang, Yingtian Zou, ccyhaha2, yilei-nus, ZijianDD",
+    "link": "https://arxiv.org/abs/2503.00876",
+    "pdf_path": "temp_pdfs\\2503.00876.pdf"
+  },
+  {
+    "title": "Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content",
+    "authors": "Zicheng Zhang, GTZhai, a9108, sl2782087, wcain",
+    "link": "https://arxiv.org/abs/2503.02357",
+    "pdf_path": "temp_pdfs\\2503.02357.pdf"
+  },
+  {
+    "title": "IterPref: Focal Preference Learning for Code Generation via Iterative Debugging",
+    "authors": "Ruihang, yangyu90, Jianwen2003, CharonBony, Ringo1110",
+    "link": "https://arxiv.org/abs/2503.02783",
+    "pdf_path": "temp_pdfs\\2503.02783.pdf"
+  },
+  {
+    "title": "SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models",
+    "authors": "Ekaterina Ivanova, alpchel, mgvz",
+    "link": "https://arxiv.org/abs/2503.02876",
+    "pdf_path": "temp_pdfs\\2503.02876.pdf"
+  },
+  {
+    "title": "AppAgentX: Evolving GUI Agents as Proficient Smartphone Users",
+    "authors": "Chi Zhang, Wenjia Jiang, xuyang, ChenxiSong, yyzhuang2",
+    "link": "https://arxiv.org/abs/2503.02268",
+    "pdf_path": "temp_pdfs\\2503.02268.pdf"
+  },
+  {
+    "title": "Tabby: Tabular Data Synthesis with Language Models",
+    "authors": "Samuel Guo, Catherine Cao, Mohammed Alkhudhayri, Satya Sai Srinath Namburi GNVV, sonicc",
+    "link": "https://arxiv.org/abs/2503.02152",
+    "pdf_path": "temp_pdfs\\2503.02152.pdf"
+  },
+  {
+    "title": "A Token-level Text Image Foundation Model for Document Understanding",
+    "authors": "Wei Shen, Zhengtao Guo, Pei Fu, Zining Wang, TongkunGuan",
+    "link": "https://arxiv.org/abs/2503.02304",
+    "pdf_path": "temp_pdfs\\2503.02304.pdf"
+  },
+  {
+    "title": "A Multimodal Symphony: Integrating Taste and Sound through Generative AI",
+    "authors": "Franco Pierucci, Antonio Rod\u00e0, Massimiliano Zampini, matteospanio",
+    "link": "https://arxiv.org/abs/2503.02823",
+    "pdf_path": "temp_pdfs\\2503.02823.pdf"
+  },
+  {
+    "title": "Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding",
+    "authors": "Maani Ghaffari, Wei Zhang, Ben Liu, Sangli Teng, Hang917",
+    "link": "https://arxiv.org/abs/2503.01842",
+    "pdf_path": "temp_pdfs\\2503.01842.pdf"
+  }
+]
