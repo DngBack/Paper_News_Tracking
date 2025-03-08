@@ -1,0 +1,128 @@
+[
+  {
+    "title": "START: Self-taught Reasoner with Tools",
+    "authors": "BeichenZhang, jx-yang, Zhenru, mingfengxue, ChengpengLi",
+    "link": "https://arxiv.org/abs/2503.04625",
+    "pdf_path": "temp_pdfs\\2503.04625.pdf"
+  },
+  {
+    "title": "Token-Efficient Long Video Understanding for Multimodal LLMs",
+    "authors": "zhiqilinv, MuyangLI, zhijianliu, xiuyul, jdps",
+    "link": "https://arxiv.org/abs/2503.04130",
+    "pdf_path": "temp_pdfs\\2503.04130.pdf"
+  },
+  {
+    "title": "LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM",
+    "authors": "Fahad Khan, Jean Lahoud, Sambal Shikhar, sahalshajim, k-m-irfan",
+    "link": "https://arxiv.org/abs/2503.04724",
+    "pdf_path": "temp_pdfs\\2503.04724.pdf"
+  },
+  {
+    "title": "EgoLife: Towards Egocentric Life Assistant",
+    "authors": "Alarak, fesvhtr, THUdyh, Choiszt, Jingkang",
+    "link": "https://arxiv.org/abs/2503.03803",
+    "pdf_path": "temp_pdfs\\2503.03803.pdf"
+  },
+  {
+    "title": "LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation",
+    "authors": "Lingyi Yang, Simi Hellsten, Jude Khouja, ryanothk, karotka",
+    "link": "https://arxiv.org/abs/2503.02972",
+    "pdf_path": "temp_pdfs\\2503.02972.pdf"
+  },
+  {
+    "title": "LLM as a Broken Telephone: Iterative Generation Distorts Information",
+    "authors": "Michalis Vazirgiannis, guokan-shang, mgeng, amr-mohamed",
+    "link": "https://arxiv.org/abs/2502.20258",
+    "pdf_path": "temp_pdfs\\2502.20258.pdf"
+  },
+  {
+    "title": "IFIR: A Comprehensive Benchmark for Evaluating Instruction-Following in Expert-Domain Information Retrieval",
+    "authors": "Mingsheng Shang, yilunzhao, guo9, songtingyu",
+    "link": "https://arxiv.org/abs/2503.04644",
+    "pdf_path": "temp_pdfs\\2503.04644.pdf"
+  },
+  {
+    "title": "HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization",
+    "authors": "Ya Wang, Breeze0417, LLIXQ, Taoer, BryceZhuo",
+    "link": "https://arxiv.org/abs/2503.04598",
+    "pdf_path": "temp_pdfs\\2503.04598.pdf"
+  },
+  {
+    "title": "L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling",
+    "authors": "Marin Solja\u010di\u0107, Di Luo, Zhuotao Jin, oriolmayne, zhuoc3",
+    "link": "https://arxiv.org/abs/2503.04725",
+    "pdf_path": "temp_pdfs\\2503.04725.pdf"
+  },
+  {
+    "title": "FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion",
+    "authors": "passerqxj, OnewayLab, GGLS, Wanfq, AALF",
+    "link": "https://arxiv.org/abs/2503.04222",
+    "pdf_path": "temp_pdfs\\2503.04222.pdf"
+  },
+  {
+    "title": "Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities",
+    "authors": "manocha, rafaelvalle, firecomputer, ZhifengKong, SreyanG-NVIDIA",
+    "link": "https://arxiv.org/abs/2503.03983",
+    "pdf_path": "temp_pdfs\\2503.03983.pdf"
+  },
+  {
+    "title": "Pok\u00e9Champ: an Expert-level Minimax Language Agent",
+    "authors": "Andy Luu Nguyen, chijin, milkkarten",
+    "link": "https://arxiv.org/abs/2503.04094",
+    "pdf_path": "temp_pdfs\\2503.04094.pdf"
+  },
+  {
+    "title": "How to Steer LLM Latents for Hallucination Detection?",
+    "authors": "Yixuan Li, Haobo Wang, Min-Hsuan Yeh, Xuefeng Du, sam121796",
+    "link": "https://arxiv.org/abs/2503.01917",
+    "pdf_path": "temp_pdfs\\2503.01917.pdf"
+  },
+  {
+    "title": "Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer",
+    "authors": "Linhui Li, Jing Lian, yjyangwork",
+    "link": "https://arxiv.org/abs/2503.02495",
+    "pdf_path": "temp_pdfs\\2503.02495.pdf"
+  },
+  {
+    "title": "The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation",
+    "authors": "Xu Tan, Kai Shen, Aoxiong Yin, JunchengLi, ustcscallion",
+    "link": "https://arxiv.org/abs/2503.04606",
+    "pdf_path": "temp_pdfs\\2503.04606.pdf"
+  },
+  {
+    "title": "Dedicated Feedback and Edit Models Empower Inference-Time Scaling for Open-Ended General-Domain Tasks",
+    "authors": "Ellie Evans, Daniel Egert, Jiaqi Zeng, Zhilin Wang, odelalleau",
+    "link": "https://arxiv.org/abs/2503.04378",
+    "pdf_path": "temp_pdfs\\2503.04378.pdf"
+  },
+  {
+    "title": "Identifying Sensitive Weights via Post-quantization Integral",
+    "authors": "Weiyu Huang, surfingtomchen, jt-zhang, zcliang22, yuezhouhu",
+    "link": "https://arxiv.org/abs/2503.01901",
+    "pdf_path": "temp_pdfs\\2503.01901.pdf"
+  },
+  {
+    "title": "Lost in Literalism: How Supervised Training Shapes Translationese in LLMs",
+    "authors": "Leyang Cui, Huajian Zhang, Zhilin Wang, Ronghao Zhang, yaful",
+    "link": "https://arxiv.org/abs/2503.04369",
+    "pdf_path": "temp_pdfs\\2503.04369.pdf"
+  },
+  {
+    "title": "Combining Flow Matching and Transformers for Efficient Solution of Bayesian Inverse Problems",
+    "authors": "Ekaterina Muravleva, oseledets, dsherki",
+    "link": "https://arxiv.org/abs/2503.01375",
+    "pdf_path": "temp_pdfs\\2503.01375.pdf"
+  },
+  {
+    "title": "Understanding and Predicting Derailment in Toxic Conversations on GitHub",
+    "authors": "Rebekah Copeland, Robert Zita, kdamevski, rahat-rizvi, imranraad",
+    "link": "https://arxiv.org/abs/2503.02191",
+    "pdf_path": "temp_pdfs\\2503.02191.pdf"
+  },
+  {
+    "title": "On the Acquisition of Shared Grammatical Representations in Bilingual Language Models",
+    "authors": "James A. Michaelov, bkbergen, tylerachang, catherinearnett",
+    "link": "https://arxiv.org/abs/2503.03962",
+    "pdf_path": "temp_pdfs\\2503.03962.pdf"
+  }
+]
