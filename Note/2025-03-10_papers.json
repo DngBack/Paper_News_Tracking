@@ -1,0 +1,140 @@
+[
+  {
+    "title": "RuCCoD: Towards Automated ICD Coding in Russian",
+    "authors": "Andrey Sakhovskiy, Aleksandr Nesterov, tlenusik, sm1rk, univanxx",
+    "link": "https://arxiv.org/abs/2502.21263",
+    "pdf_path": "temp_pdfs\\2502.21263.pdf"
+  },
+  {
+    "title": "Unified Reward Model for Multimodal Understanding and Generation",
+    "authors": "Cheng Jin, Hao Li, Jiaqiwang, yuhangzang, CodeGoat24",
+    "link": "https://arxiv.org/abs/2503.05236",
+    "pdf_path": "temp_pdfs\\2503.05236.pdf"
+  },
+  {
+    "title": "EuroBERT: Scaling Multilingual Encoders for European Languages",
+    "authors": "caiocorro, ayoubhammal, DuarteMRAlves, hgissbkh, Nicolas-BZRD",
+    "link": "https://arxiv.org/abs/2503.05500",
+    "pdf_path": "temp_pdfs\\2503.05500.pdf"
+  },
+  {
+    "title": "S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following\n  with Paralinguistic Information",
+    "authors": "Yuhao Du, Benyou, FanBuCUHK, zylin1, liuxuan320",
+    "link": "https://arxiv.org/abs/2503.05085",
+    "pdf_path": "temp_pdfs\\2503.05085.pdf"
+  },
+  {
+    "title": "Sketch-of-Thought: Efficient LLM Reasoning with Adaptive\n  Cognitive-Inspired Sketching",
+    "authors": "Sung Ju Hwang, jinheon, saytes",
+    "link": "https://arxiv.org/abs/2503.05179",
+    "pdf_path": "temp_pdfs\\2503.05179.pdf"
+  },
+  {
+    "title": "Forgetting Transformer: Softmax Attention with a Forget Gate",
+    "authors": "Aaron Courville, littleowen, nikishin, zhixuan-lin",
+    "link": "https://arxiv.org/abs/2503.02130",
+    "pdf_path": "temp_pdfs\\2503.02130.pdf"
+  },
+  {
+    "title": "R1-Searcher: Incentivizing the Search Capability in LLMs via\n  Reinforcement Learning",
+    "authors": "TimothyCzp, survivi, EliverQ, Boru, XXsongLALA",
+    "link": "https://arxiv.org/abs/2503.05592",
+    "pdf_path": "temp_pdfs\\2503.05592.pdf"
+  },
+  {
+    "title": "VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play\n  Context Control",
+    "authors": "Zhaoyang Zhang, yshan2u, Ljzycmd, juxuan27, BianYx",
+    "link": "https://arxiv.org/abs/2503.05639",
+    "pdf_path": "temp_pdfs\\2503.05639.pdf"
+  },
+  {
+    "title": "R1-Omni: Explainable Omni-Multimodal Emotion Recognition with\n  Reinforcing Learning",
+    "authors": "Xihan Wei, Liefeng, StarJiaxing",
+    "link": "https://arxiv.org/abs/2503.05379",
+    "pdf_path": "temp_pdfs\\2503.05379.pdf"
+  },
+  {
+    "title": "BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation\n  for Everyday Household Activities",
+    "authors": "Ruohan Zhang, jiajunwu, cgokmen, yjze, yunfanj",
+    "link": "https://arxiv.org/abs/2503.05652",
+    "pdf_path": "temp_pdfs\\2503.05652.pdf"
+  },
+  {
+    "title": "TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos\n  via Diffusion Models",
+    "authors": "Mark YU, yshan2u, Doubiiu, wbhu-tc",
+    "link": "https://arxiv.org/abs/2503.05638",
+    "pdf_path": "temp_pdfs\\2503.05638.pdf"
+  },
+  {
+    "title": "ProReflow: Progressive Reflow with Decomposed Velocity",
+    "authors": "Yu Li, Xuefei Ning, Haohang Xu, Lei Ke, Ringo1110",
+    "link": "https://arxiv.org/abs/2503.04824",
+    "pdf_path": "temp_pdfs\\2503.04824.pdf"
+  },
+  {
+    "title": "TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation",
+    "authors": "lwher1996, yuhanwuuu, xiaoqijiang, zhaoguangxiang, lincharliesun",
+    "link": "https://arxiv.org/abs/2503.04872",
+    "pdf_path": "temp_pdfs\\2503.04872.pdf"
+  },
+  {
+    "title": "Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts",
+    "authors": "Yu Cheng, Tong Zhu, Xiaoye08, landisen, weigao266",
+    "link": "https://arxiv.org/abs/2503.05447",
+    "pdf_path": "temp_pdfs\\2503.05447.pdf"
+  },
+  {
+    "title": "An Empirical Study on Eliciting and Improving R1-like Reasoning Models",
+    "authors": "Boru, survivi, ToheartZhang, EliverQ, TimothyCzp",
+    "link": "https://arxiv.org/abs/2503.04548",
+    "pdf_path": "temp_pdfs\\2503.04548.pdf"
+  },
+  {
+    "title": "LONGCODEU: Benchmarking Long-Context Language Models on Long Code\n  Understanding",
+    "authors": "Ge Li, Kechi Zhang, Lei Li, Xuyuan Guo, Jia Li",
+    "link": "https://arxiv.org/abs/2503.04359",
+    "pdf_path": "temp_pdfs\\2503.04359.pdf"
+  },
+  {
+    "title": "Learning from Failures in Multi-Attempt Reinforcement Learning",
+    "authors": "Stephen Chung, bigaidream, wydu",
+    "link": "https://arxiv.org/abs/2503.04808",
+    "pdf_path": "temp_pdfs\\2503.04808.pdf"
+  },
+  {
+    "title": "SAGE: A Framework of Precise Retrieval for RAG",
+    "authors": "Jinyang Su, Guoliang Li, jt-zhang",
+    "link": "https://arxiv.org/abs/2503.01713",
+    "pdf_path": "temp_pdfs\\2503.01713.pdf"
+  },
+  {
+    "title": "R1-Zero's \"Aha Moment\" in Visual Reasoning on a 2B Non-SFT Model",
+    "authors": "Minhao Cheng, Ruochen Wang, zhoutianyi, AIcell, Dolphin42",
+    "link": "https://arxiv.org/abs/2503.05132",
+    "pdf_path": "temp_pdfs\\2503.05132.pdf"
+  },
+  {
+    "title": "LoRACode: LoRA Adapters for Code Embeddings",
+    "authors": "bindsch, amanchadha, shollercoaster",
+    "link": "https://arxiv.org/abs/2503.05315",
+    "pdf_path": "temp_pdfs\\2503.05315.pdf"
+  },
+  {
+    "title": "Know You First and Be You Better: Modeling Human-Like User Simulators\n  via Implicit Profiles",
+    "authors": "Feng Jiang, Li Zhou, Shenghao Yang, Xianfei Li, wangkevin02",
+    "link": "https://arxiv.org/abs/2502.18968",
+    "pdf_path": "temp_pdfs\\2502.18968.pdf"
+  },
+  {
+    "title": "AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM",
+    "authors": "Inpyo Hong, Sein Kwon, Kijung Lee, jyy1551, SkiddieAhn",
+    "link": "https://arxiv.org/abs/2503.04504",
+    "pdf_path": "temp_pdfs\\2503.04504.pdf"
+  },
+  {
+    "title": "EAGLE-3: Scaling up Inference Acceleration of Large Language Models via\n  Training-Time Test",
+    "authors": "Chao Zhang, Fangyun Wei, Yuhui Li, hongyanz",
+    "link": "https://arxiv.org/abs/2503.01840",
+    "pdf_path": "temp_pdfs\\2503.01840.pdf"
+  }
+]
