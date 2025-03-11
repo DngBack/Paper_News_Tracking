@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Feature-Level Insights into Artificial Text Detection with Sparse\n  Autoencoders",
+    "authors": "Kristian Kuznetsov, natriistorm, razzant, plina2polina, Kushnareva",
+    "link": "https://arxiv.org/abs/2503.03601",
+    "pdf_path": "temp_pdfs\\2503.03601.pdf"
+  },
+  {
+    "title": "SEAP: Training-free Sparse Expert Activation Pruning Unlock the\n  Brainpower of Large Language Models",
+    "authors": "Xun Liang, BO1022, Ki-Seki, siminniu, UglyToilet",
+    "link": "https://arxiv.org/abs/2503.07605",
+    "pdf_path": "temp_pdfs\\2503.07605.pdf"
+  },
+  {
+    "title": "MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale\n  Reinforcement Learning",
+    "authors": "wangwhcore, friskit, hflqf88888, Cierra0506, FanqingM",
+    "link": "https://arxiv.org/abs/2503.07365",
+    "pdf_path": "temp_pdfs\\2503.07365.pdf"
+  },
+  {
+    "title": "Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue\n  Learning",
+    "authors": "Zongqing Lu, Jiazheng Liu, tellarin, sipeng9527",
+    "link": "https://arxiv.org/abs/2503.07002",
+    "pdf_path": "temp_pdfs\\2503.07002.pdf"
+  },
+  {
+    "title": "Automated Movie Generation via Multi-Agent CoT Planning",
+    "authors": "Zeyu Zhu, AnalMom, weijiawu",
+    "link": "https://arxiv.org/abs/2503.07314",
+    "pdf_path": "temp_pdfs\\2503.07314.pdf"
+  },
+  {
+    "title": "FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA\n  Subparameter Updates",
+    "authors": "Sung Ju Hwang, matbambbang, Seanie-lee, Sangsang",
+    "link": "https://arxiv.org/abs/2503.07216",
+    "pdf_path": "temp_pdfs\\2503.07216.pdf"
+  },
+  {
+    "title": "DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs",
+    "authors": "Luming Liang, tding1, sungnyun, tianyic, jongwooko",
+    "link": "https://arxiv.org/abs/2503.07067",
+    "pdf_path": "temp_pdfs\\2503.07067.pdf"
+  },
+  {
+    "title": "EasyControl: Adding Efficient and Flexible Control for Diffusion\n  Transformer",
+    "authors": "Jiaming Liu, Yirui Yuan, wanghaofan, yiren98, zzyx",
+    "link": "https://arxiv.org/abs/2503.07027",
+    "pdf_path": "temp_pdfs\\2503.07027.pdf"
+  },
+  {
+    "title": "FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation\n  for Feature Implementation",
+    "authors": "Wei Li, lisijia0504, yangyu90, dawnmsg, CharonBony",
+    "link": "https://arxiv.org/abs/2503.06680",
+    "pdf_path": "temp_pdfs\\2503.06680.pdf"
+  },
+  {
+    "title": "AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via\n  Reinforcement Learning and Reasoning",
+    "authors": "Qian Zhang, xinggangw, wenyuliu, Atan-0221, rb93dett",
+    "link": "https://arxiv.org/abs/2503.07608",
+    "pdf_path": "temp_pdfs\\2503.07608.pdf"
+  },
+  {
+    "title": "SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and\n  Multi-dimensional Evaluation for Automated Survey Writing",
+    "authors": "BoZhang, binwang, renqiux0302, JiakangYuan, yxc97",
+    "link": "https://arxiv.org/abs/2503.04629",
+    "pdf_path": "temp_pdfs\\2503.04629.pdf"
+  },
+  {
+    "title": "DreamRelation: Relation-Centric Video Customization",
+    "authors": "Shiwei Zhang, Shuaishuai0219, lloong, JacobYuan, weilllllls",
+    "link": "https://arxiv.org/abs/2503.07602",
+    "pdf_path": "temp_pdfs\\2503.07602.pdf"
+  },
+  {
+    "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large\n  Language Models",
+    "authors": "kimlin123, zheyuye, skyz1010, BohanJia, HuangWenXuan",
+    "link": "https://arxiv.org/abs/2503.06749",
+    "pdf_path": "temp_pdfs\\2503.06749.pdf"
+  },
+  {
+    "title": "WritingBench: A Comprehensive Benchmark for Generative Writing",
+    "authors": "SHaopeng Lai, Chenliang Li, Ming Yan, Jiahao Mei, AQuarterMile",
+    "link": "https://arxiv.org/abs/2503.05244",
+    "pdf_path": "temp_pdfs\\2503.05244.pdf"
+  },
+  {
+    "title": "Agent models: Internalizing Chain-of-Action Generation into Reasoning\n  models",
+    "authors": "Jitao Sang, Xinyan Wen, Jiangming Shu, tzteyang, TokerZ",
+    "link": "https://arxiv.org/abs/2503.06580",
+    "pdf_path": "temp_pdfs\\2503.06580.pdf"
+  },
+  {
+    "title": "LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted\n  Contrastive Learning",
+    "authors": "Jinsong Su, Jie Zhou, Fandong Meng, lqniu, zhibinlan",
+    "link": "https://arxiv.org/abs/2503.04812",
+    "pdf_path": "temp_pdfs\\2503.04812.pdf"
+  },
+  {
+    "title": "Unleashing the Potential of Large Language Models for Text-to-Image\n  Generation through Autoregressive Representation Alignment",
+    "authors": "Zhi Han, Huijie Fan, Ziyue Lin, Jiawei Liu, xing0916",
+    "link": "https://arxiv.org/abs/2503.07334",
+    "pdf_path": "temp_pdfs\\2503.07334.pdf"
+  },
+  {
+    "title": "PE3R: Perception-Efficient 3D Reconstruction",
+    "authors": "Jie Hu, wxcTest, littlepure2333",
+    "link": "https://arxiv.org/abs/2503.07507",
+    "pdf_path": "temp_pdfs\\2503.07507.pdf"
+  },
+  {
+    "title": "MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for\n  Complex Medical Reasoning",
+    "authors": "Jiapeng Chen, Jiwoong Sohn, Daniel Shao, wshi83, RTT1",
+    "link": "https://arxiv.org/abs/2503.07459",
+    "pdf_path": "temp_pdfs\\2503.07459.pdf"
+  },
+  {
+    "title": "Effective and Efficient Masked Image Generation Models",
+    "authors": "Jun Hu, zhenxuan00, xiaolu0714, JingyangOu, yyyou",
+    "link": "https://arxiv.org/abs/2503.07197",
+    "pdf_path": "temp_pdfs\\2503.07197.pdf"
+  },
+  {
+    "title": "This Is Your Doge, If It Please You: Exploring Deception and Robustness\n  in Mixture of LLMs",
+    "authors": "Ilija Bogunovic, Sangwoong Yoon, Llwo",
+    "link": "https://arxiv.org/abs/2503.05856",
+    "pdf_path": "temp_pdfs\\2503.05856.pdf"
+  },
+  {
+    "title": "Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive\n  Reinforcement",
+    "authors": "Zihao Yue, Yuqi Liu, Fanbin, zszhong, BoHao0326",
+    "link": "https://arxiv.org/abs/2503.06520",
+    "pdf_path": "temp_pdfs\\2503.06520.pdf"
+  },
+  {
+    "title": "BlackGoose Rimer: Harnessing RWKV-7 as a Simple yet Superior Replacement\n  for Transformers in Large-Scale Time Series Modeling",
+    "authors": "xiaol, Alic-Li",
+    "link": "https://arxiv.org/abs/2503.06121",
+    "pdf_path": "temp_pdfs\\2503.06121.pdf"
+  },
+  {
+    "title": "Efficient Distillation of Classifier-Free Guidance using Adapters",
+    "authors": "msadat97, cristianpjensen",
+    "link": "https://arxiv.org/abs/2503.07274",
+    "pdf_path": "temp_pdfs\\2503.07274.pdf"
+  },
+  {
+    "title": "Should VLMs be Pre-trained with Image Data?",
+    "authors": "RussTedrake, ivas-tri, samirg, jmercat, sedrickkeh",
+    "link": "https://arxiv.org/abs/2503.07603",
+    "pdf_path": "temp_pdfs\\2503.07603.pdf"
+  },
+  {
+    "title": "WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image\n  Generation",
+    "authors": "binzhu2023, ljq940913, Pengjin, zmr66z6xx6, MunanNing",
+    "link": "https://arxiv.org/abs/2503.07265",
+    "pdf_path": "temp_pdfs\\2503.07265.pdf"
+  },
+  {
+    "title": "Zero-AVSR: Zero-Shot Audio-Visual Speech Recognition with LLMs by\n  Learning Language-Agnostic Speech Representations",
+    "authors": "Yong Man Ro, Stavros Petridis, Chae Won Kim, Minsu Kim, JeongHun0716",
+    "link": "https://arxiv.org/abs/2503.06273",
+    "pdf_path": "temp_pdfs\\2503.06273.pdf"
+  },
+  {
+    "title": "State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for\n  State Space Models",
+    "authors": "Hyung Il Koo, Minjae Lee, yzeng58, kev95, wjkang",
+    "link": "https://arxiv.org/abs/2503.03499",
+    "pdf_path": "temp_pdfs\\2503.03499.pdf"
+  },
+  {
+    "title": "Words or Vision: Do Vision-Language Models Have Blind Faith in Text?",
+    "authors": "Bryan Hooi, Tri Cao, Ailin Deng, ryanchen42",
+    "link": "https://arxiv.org/abs/2503.02199",
+    "pdf_path": "temp_pdfs\\2503.02199.pdf"
+  },
+  {
+    "title": "Detection Avoidance Techniques for Large Language Models",
+    "authors": "Gabi Dreo Rodosek, JoaoSchneider, steuber, SinclairSchneider",
+    "link": "https://arxiv.org/abs/2503.07595",
+    "pdf_path": "temp_pdfs\\2503.07595.pdf"
+  },
+  {
+    "title": "YOLOE: Real-Time Seeing Anything",
+    "authors": "Jungong Han, Zijia Lin, Hui Chen, Lihao Liu, Ao Wang",
+    "link": "https://arxiv.org/abs/2503.07465",
+    "pdf_path": "temp_pdfs\\2503.07465.pdf"
+  },
+  {
+    "title": "TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image\n  Diffusion Models",
+    "authors": "Weizhi Nie, Chenyu Zhang, Lanjun Wang, Honglin Guo, ddgoodgood",
+    "link": "https://arxiv.org/abs/2503.07389",
+    "pdf_path": "temp_pdfs\\2503.07389.pdf"
+  },
+  {
+    "title": "A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning",
+    "authors": "Xiaojuan Qi, Xin Wen, Jiangmiao, allenchenyilun, tennant",
+    "link": "https://arxiv.org/abs/2503.06960",
+    "pdf_path": "temp_pdfs\\2503.06960.pdf"
+  },
+  {
+    "title": "ProBench: Judging Multimodal Foundation Models on Open-ended\n  Multi-domain Expert Tasks",
+    "authors": "Bei Chen, JunnanLi, haoningwu, dxli1, HelloKKMe",
+    "link": "https://arxiv.org/abs/2503.06885",
+    "pdf_path": "temp_pdfs\\2503.06885.pdf"
+  },
+  {
+    "title": "DiffCLIP: Differential Attention Meets CLIP",
+    "authors": "Bernard Ghanem, hammh0a",
+    "link": "https://arxiv.org/abs/2503.06626",
+    "pdf_path": "temp_pdfs\\2503.06626.pdf"
+  },
+  {
+    "title": "Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal\n  LLMs",
+    "authors": "Stavros Petridis, Minsu Kim, hisoka94",
+    "link": "https://arxiv.org/abs/2503.06362",
+    "pdf_path": "temp_pdfs\\2503.06362.pdf"
+  },
+  {
+    "title": "Novel Object 6D Pose Estimation with a Single Reference View",
+    "authors": "Hui Yang, Jin Zheng, Kai Zeng, Wei Sun, JianLiu99",
+    "link": "https://arxiv.org/abs/2503.05578",
+    "pdf_path": "temp_pdfs\\2503.05578.pdf"
+  },
+  {
+    "title": "HumanMM: Global Human Motion Recovery from Multi-shot Videos",
+    "authors": "Bunny, zhuokai, EvanTHU, Frank0930, YuhongZhang",
+    "link": "https://arxiv.org/abs/2503.07597",
+    "pdf_path": "temp_pdfs\\2503.07597.pdf"
+  },
+  {
+    "title": "RePO: ReLU-based Preference Optimization",
+    "authors": "Jinyang Gao, Xue Wang, xiangwang1223, kexinhuang, junkang0909",
+    "link": "https://arxiv.org/abs/2503.07426",
+    "pdf_path": "temp_pdfs\\2503.07426.pdf"
+  },
+  {
+    "title": "Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent\n  Spaces",
+    "authors": "Diego Gomez, erodola, teelinsan, lucmos, Squall01",
+    "link": "https://arxiv.org/abs/2503.05283",
+    "pdf_path": "temp_pdfs\\2503.05283.pdf"
+  },
+  {
+    "title": "Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge\n  Reasoning",
+    "authors": "papotti, fabiopetroni, orionweller, giulio98",
+    "link": "https://arxiv.org/abs/2503.04973",
+    "pdf_path": "temp_pdfs\\2503.04973.pdf"
+  },
+  {
+    "title": "REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding",
+    "authors": "Yiying Dong, Ynan Ding, Zhiqiang Chen, Luhao Zhu, Yan Tai",
+    "link": "https://arxiv.org/abs/2503.07413",
+    "pdf_path": "temp_pdfs\\2503.07413.pdf"
+  },
+  {
+    "title": "Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for\n  Heterogeneous Reasoning",
+    "authors": "Tianlong Chen, Sukwon Yun, mohitbansal, esteng, dinobby",
+    "link": "https://arxiv.org/abs/2503.05641",
+    "pdf_path": "temp_pdfs\\2503.05641.pdf"
+  },
+  {
+    "title": "NeuGrasp: Generalizable Neural Surface Reconstruction with Background\n  Priors for Material-Agnostic Object Grasp Detection",
+    "authors": "Wenzhe He, Chao Li, xudongz, paparika, KianYale",
+    "link": "https://arxiv.org/abs/2503.03511",
+    "pdf_path": "temp_pdfs\\2503.03511.pdf"
+  }
+]
