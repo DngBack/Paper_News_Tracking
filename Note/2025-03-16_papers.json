@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Transformers without Normalization",
+    "authors": "Zhuang Liu, Kaiming He, ylecun, endernewton, JiachenZhu",
+    "link": "https://arxiv.org/abs/2503.10622",
+    "pdf_path": "temp_pdfs\\2503.10622.pdf"
+  },
+  {
+    "title": "CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing",
+    "authors": "Dang Nguyen, zhoutianyi, nandakiran09, advaitgupta",
+    "link": "https://arxiv.org/abs/2503.10613",
+    "pdf_path": "temp_pdfs\\2503.10613.pdf"
+  },
+  {
+    "title": "Charting and Navigating Hugging Face's Model Atlas",
+    "authors": "yedid, LielAmar, jonkahana, nitzankur, Eliahu",
+    "link": "https://arxiv.org/abs/2503.10633",
+    "pdf_path": "temp_pdfs\\2503.10633.pdf"
+  },
+  {
+    "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for\n  Embodied Task Planning",
+    "authors": "xpqiu, Jinlan, CyberDJ, ngc7293, sinwang",
+    "link": "https://arxiv.org/abs/2503.10480",
+    "pdf_path": "temp_pdfs\\2503.10480.pdf"
+  },
+  {
+    "title": "GoT: Unleashing Reasoning Capability of Multimodal Large Language Model\n  for Visual Generation and Editing",
+    "authors": "zengxingyu, shilinyan, LjHuang, gogoduan, LucasFang",
+    "link": "https://arxiv.org/abs/2503.10639",
+    "pdf_path": "temp_pdfs\\2503.10639.pdf"
+  },
+  {
+    "title": "Silent Branding Attack: Trigger-free Data Poisoning Attack on\n  Text-to-Image Diffusion Models",
+    "authors": "Sung Ju Hwang, kiminle2, harryjo97, wchoi403, agwmon",
+    "link": "https://arxiv.org/abs/2503.09669",
+    "pdf_path": "temp_pdfs\\2503.09669.pdf"
+  },
+  {
+    "title": "VisualPRM: An Effective Process Reward Model for Multimodal Reasoning",
+    "authors": "Einsiedler, Yeshenglong, Decaux, chenlj22, Weiyun1025",
+    "link": "https://arxiv.org/abs/2503.10291",
+    "pdf_path": "temp_pdfs\\2503.10291.pdf"
+  },
+  {
+    "title": "CoRe^2: Collect, Reflect and Refine to Generate Better and Faster",
+    "authors": "Yuetong Fang, Dian Xie, Zikai Zhou, Shitong Shao, indulgeBai",
+    "link": "https://arxiv.org/abs/2503.09662",
+    "pdf_path": "temp_pdfs\\2503.09662.pdf"
+  },
+  {
+    "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large\n  Language Models",
+    "authors": "hpfister, Qmh, wrencanfly, rpzhou, EthanTaylor",
+    "link": "https://arxiv.org/abs/2503.10437",
+    "pdf_path": "temp_pdfs\\2503.10437.pdf"
+  },
+  {
+    "title": "OmniPaint: Mastering Object-Oriented Editing via Disentangled\n  Insertion-Removal Inpainting",
+    "authors": "Jiebo Luo, Haitian Zheng, Ziyun Zeng, yeates",
+    "link": "https://arxiv.org/abs/2503.08677",
+    "pdf_path": "temp_pdfs\\2503.08677.pdf"
+  },
+  {
+    "title": "GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding",
+    "authors": "wenyuliu, steelozazala, wondervictor, LianghuiZhu, RuiHu",
+    "link": "https://arxiv.org/abs/2503.10596",
+    "pdf_path": "temp_pdfs\\2503.10596.pdf"
+  },
+  {
+    "title": "New Trends for Modern Machine Translation with Large Reasoning Models",
+    "authors": "acecamel1977, longyuewang, minghaowu, ChenyangLyu, SNF",
+    "link": "https://arxiv.org/abs/2503.10351",
+    "pdf_path": "temp_pdfs\\2503.10351.pdf"
+  },
+  {
+    "title": "Shifting Long-Context LLMs Research from Input to Output",
+    "authors": "mingshan, tsq2000, Zhiqiang007, bys0318, mozhu",
+    "link": "https://arxiv.org/abs/2503.04723",
+    "pdf_path": "temp_pdfs\\2503.04723.pdf"
+  },
+  {
+    "title": "Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and\n  Beyond",
+    "authors": "tanglifu, JunchenLiu, yyy99, duan901010, cizhenshi",
+    "link": "https://arxiv.org/abs/2503.10460",
+    "pdf_path": "temp_pdfs\\2503.10460.pdf"
+  },
+  {
+    "title": "DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture\n  Design in Text to Image Generation",
+    "authors": "Rui Qian, Chen Chen, yinfeiy, tsujuifu, wenzehu",
+    "link": "https://arxiv.org/abs/2503.10618",
+    "pdf_path": "temp_pdfs\\2503.10618.pdf"
+  },
+  {
+    "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web\n  Search",
+    "authors": "Bo Li, Xiang Yue, wenhu, jiachenli-ucsb, jymmmmm",
+    "link": "https://arxiv.org/abs/2503.10582",
+    "pdf_path": "temp_pdfs\\2503.10582.pdf"
+  },
+  {
+    "title": "SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency\n  Distillation",
+    "authors": "Yuyang Zhao, Shuchen Xue, Junsong Chen, xieenze, sayakpaul",
+    "link": "https://arxiv.org/abs/2503.09641",
+    "pdf_path": "temp_pdfs\\2503.09641.pdf"
+  },
+  {
+    "title": "R1-Onevision: Advancing Generalized Multimodal Reasoning through\n  Cross-Modal Formalization",
+    "authors": "Xiaoxuan He, Yi Yang, twilightsnow, dcyin, Emilia515",
+    "link": "https://arxiv.org/abs/2503.10615",
+    "pdf_path": "temp_pdfs\\2503.10615.pdf"
+  },
+  {
+    "title": "Open-Sora 2.0: Training a Commercial-Level Video Generation Model in\n  $200k",
+    "authors": "Xinying Guo, Tom Young, Chenhui Shen, Zangwei Zheng, Xiangyu Peng",
+    "link": "https://arxiv.org/abs/2503.09642",
+    "pdf_path": "temp_pdfs\\2503.09642.pdf"
+  },
+  {
+    "title": "Long Context Tuning for Video Generation",
+    "authors": "lindahua, zhenheny, Ikuinen, Brightmzb, ziyany",
+    "link": "https://arxiv.org/abs/2503.10589",
+    "pdf_path": "temp_pdfs\\2503.10589.pdf"
+  },
+  {
+    "title": "Distilling Diversity and Control in Diffusion Models",
+    "authors": "David Bau, RohitGandikota",
+    "link": "https://arxiv.org/abs/2503.10637",
+    "pdf_path": "temp_pdfs\\2503.10637.pdf"
+  },
+  {
+    "title": "Do I look like a `cat.n.01` to you? A Taxonomy Image Generation\n  Benchmark",
+    "authors": "Ekaterina Neminova, Alina Lobanova, lilaspourpre, apanc, VityaVitalich",
+    "link": "https://arxiv.org/abs/2503.10357",
+    "pdf_path": "temp_pdfs\\2503.10357.pdf"
+  },
+  {
+    "title": "Communication-Efficient Language Model Training Scales Reliably and\n  Robustly: Scaling Laws for DiLoCo",
+    "authors": "Nova Fallen, Keith Rush, Lucio Dery, Gabriel Teston, zcharles8",
+    "link": "https://arxiv.org/abs/2503.09799",
+    "pdf_path": "temp_pdfs\\2503.09799.pdf"
+  },
+  {
+    "title": "CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance",
+    "authors": "brotherhuang, u302117, BestWishYsh, angtian, dyf",
+    "link": "https://arxiv.org/abs/2503.10391",
+    "pdf_path": "temp_pdfs\\2503.10391.pdf"
+  },
+  {
+    "title": "ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style\n  Transfer",
+    "authors": "Qing Li, Yi Cai, Haoran Xie, Baoquan Zhao, chenblin26",
+    "link": "https://arxiv.org/abs/2503.10614",
+    "pdf_path": "temp_pdfs\\2503.10614.pdf"
+  },
+  {
+    "title": "On the Limitations of Vision-Language Models in Understanding Image\n  Transforms",
+    "authors": "Saquib Sarfraz, Hasnain Ali, Ahmad Mustafa Anis",
+    "link": "https://arxiv.org/abs/2503.09837",
+    "pdf_path": "temp_pdfs\\2503.09837.pdf"
+  },
+  {
+    "title": "UniGoal: Towards Universal Zero-shot Goal-oriented Navigation",
+    "authors": "Ziwei Wang, Lingqing Zhao, jiwenlu, xuxw98, hangyin",
+    "link": "https://arxiv.org/abs/2503.10630",
+    "pdf_path": "temp_pdfs\\2503.10630.pdf"
+  },
+  {
+    "title": "Autoregressive Image Generation with Randomized Parallel Decoding",
+    "authors": "Huan Wang, Guoqi Li, Jinyue Yang, hp-l33",
+    "link": "https://arxiv.org/abs/2503.10568",
+    "pdf_path": "temp_pdfs\\2503.10568.pdf"
+  },
+  {
+    "title": "Piece it Together: Part-Based Concepting with IP-Priors",
+    "authors": "Daniel Cohen-Or, Yuval Alaluf, Kfir Goldberg, Elad Richardson",
+    "link": "https://arxiv.org/abs/2503.10365",
+    "pdf_path": "temp_pdfs\\2503.10365.pdf"
+  },
+  {
+    "title": "Quantization for OpenAI's Whisper Models: A Comparative Analysis",
+    "authors": "allisonandreyev",
+    "link": "https://arxiv.org/abs/2503.09905",
+    "pdf_path": "temp_pdfs\\2503.09905.pdf"
+  },
+  {
+    "title": "Discovering Influential Neuron Path in Vision Transformers",
+    "authors": "Anqi Pang, Changming Li, Yingdong Shi, Yifei Liu, Zc0in",
+    "link": "https://arxiv.org/abs/2503.09046",
+    "pdf_path": "temp_pdfs\\2503.09046.pdf"
+  },
+  {
+    "title": "TruthPrInt: Mitigating LVLM Object Hallucination Via Latent\n  Truthful-Guided Pre-Intervention",
+    "authors": "Bhavya Kailkhura, James Diffenderfer, Hao Cheng, Fei Kong, Jinhao Duan",
+    "link": "https://arxiv.org/abs/2503.10602",
+    "pdf_path": "temp_pdfs\\2503.10602.pdf"
+  },
+  {
+    "title": "MinorBench: A hand-built benchmark for content-based risks for children",
+    "authors": "Rachel Shong, Shaun Khoo, gabrielchua",
+    "link": "https://arxiv.org/abs/2503.10242",
+    "pdf_path": "temp_pdfs\\2503.10242.pdf"
+  },
+  {
+    "title": "\"Silent Is Not Actually Silent\": An Investigation of Toxicity on Bug\n  Report Discussion",
+    "authors": "Jaydeb Sarker, imranraad",
+    "link": "https://arxiv.org/abs/2503.10072",
+    "pdf_path": "temp_pdfs\\2503.10072.pdf"
+  },
+  {
+    "title": "The Curse of Conditions: Analyzing and Improving Optimal Transport for\n  Conditional Flow-Based Generation",
+    "authors": "Alexander Schwing, hkchengrex",
+    "link": "https://arxiv.org/abs/2503.10636",
+    "pdf_path": "temp_pdfs\\2503.10636.pdf"
+  },
+  {
+    "title": "Studying Classifier(-Free) Guidance From a Classifier-Centric\n  Perspective",
+    "authors": "Alexander G. Schwing, Xiaoming Zhao",
+    "link": "https://arxiv.org/abs/2503.10638",
+    "pdf_path": "temp_pdfs\\2503.10638.pdf"
+  },
+  {
+    "title": "PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with\n  Implicit Hierarchical Masked Image Modeling",
+    "authors": "Daniel Mueller-Gritschneder, Sascha Hauke, HerrSiebert, edukrom, Nikolai10",
+    "link": "https://arxiv.org/abs/2503.09368",
+    "pdf_path": "temp_pdfs\\2503.09368.pdf"
+  },
+  {
+    "title": "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90%\n  Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1",
+    "authors": "Zhiqiang Shen, Jiacheng Cui, Dong-Dong Wu, Xiaohan Zhao, Zhaoyi Li",
+    "link": "https://arxiv.org/abs/2503.10635",
+    "pdf_path": "temp_pdfs\\2503.10635.pdf"
+  },
+  {
+    "title": "PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping\n  with VLM",
+    "authors": "Bui Quang Huy, Tuan Le Duc Anh, Dinh Bach Vu, Alan Dao",
+    "link": "https://arxiv.org/abs/2503.07111",
+    "pdf_path": "temp_pdfs\\2503.07111.pdf"
+  }
+]
