@@ -1,0 +1,158 @@
+[
+  {
+    "title": "ReCamMaster: Camera-Controlled Generative Rendering from A Single Video",
+    "authors": "Zuozhu, Mu437, Xintao, menghanxia, jianhongbai",
+    "link": "https://arxiv.org/abs/2503.11647",
+    "pdf_path": "temp_pdfs\\2503.11647.pdf"
+  },
+  {
+    "title": "PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference\n  Time by Leveraging Sparsity",
+    "authors": "byeongsus, kwanyoung",
+    "link": "https://arxiv.org/abs/2503.07677",
+    "pdf_path": "temp_pdfs\\2503.07677.pdf"
+  },
+  {
+    "title": "Adversarial Data Collection: Human-Collaborative Perturbations for\n  Efficient and Robust Robotic Imitation Learning",
+    "authors": "hsli-cuhk, jiang12345, Eralien, morninghaze, SiyuanH",
+    "link": "https://arxiv.org/abs/2503.11646",
+    "pdf_path": "temp_pdfs\\2503.11646.pdf"
+  },
+  {
+    "title": "Technologies on Effectiveness and Efficiency: A Survey of State Spaces\n  Models",
+    "authors": "xuekai, lindsay-qu, iseesaw, Youbang, XingtaiHF",
+    "link": "https://arxiv.org/abs/2503.11224",
+    "pdf_path": "temp_pdfs\\2503.11224.pdf"
+  },
+  {
+    "title": "API Agents vs. GUI Agents: Divergence and Convergence",
+    "authors": "Eliblo1969, SiQin88, liqul, shilhe, vyokky",
+    "link": "https://arxiv.org/abs/2503.11069",
+    "pdf_path": "temp_pdfs\\2503.11069.pdf"
+  },
+  {
+    "title": "Exploring the Vulnerabilities of Federated Learning: A Deep Dive into\n  Gradient Inversion Attacks",
+    "authors": "haoning666, Jinjing08, stevezs, Rx-Wang, gpx333",
+    "link": "https://arxiv.org/abs/2503.11514",
+    "pdf_path": "temp_pdfs\\2503.11514.pdf"
+  },
+  {
+    "title": "Large-scale Pre-training for Grounded Video Caption Generation",
+    "authors": "Josef Sivic, Cordelia Schmid, ekazakos",
+    "link": "https://arxiv.org/abs/2503.10781",
+    "pdf_path": "temp_pdfs\\2503.10781.pdf"
+  },
+  {
+    "title": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of\n  Tools",
+    "authors": "Richard Zhu, marinkaz, Blair1213, ayushnoori, shgao",
+    "link": "https://arxiv.org/abs/2503.10970",
+    "pdf_path": "temp_pdfs\\2503.10970.pdf"
+  },
+  {
+    "title": "FlowTok: Flowing Seamlessly Across Text and Image Tokens",
+    "authors": "Liang-Chieh Chen, QHL067, QihangYu, turkeyju",
+    "link": "https://arxiv.org/abs/2503.10772",
+    "pdf_path": "temp_pdfs\\2503.10772.pdf"
+  },
+  {
+    "title": "Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision\n  Transformers?",
+    "authors": "Xin Li, Killian Hitsman, aritradutta, maitysubhajit",
+    "link": "https://arxiv.org/abs/2503.10632",
+    "pdf_path": "temp_pdfs\\2503.10632.pdf"
+  },
+  {
+    "title": "Cockatiel: Ensembling Synthetic and Human Preferenced Training for\n  Detailed Video Caption",
+    "authors": "Hao Li, Zhiyu Tan, xiaomengyang, Kobeshegu, Fr0zencr4nE",
+    "link": "https://arxiv.org/abs/2503.09279",
+    "pdf_path": "temp_pdfs\\2503.09279.pdf"
+  },
+  {
+    "title": "ARMOR v0.1: Empowering Autoregressive Multimodal Understanding Model\n  with Interleaved Multimodal Generation via Asymmetric Synergy",
+    "authors": "kpzhang996, ZhangShenglin, fanrui00, cyrilli, finyorko",
+    "link": "https://arxiv.org/abs/2503.06542",
+    "pdf_path": "temp_pdfs\\2503.06542.pdf"
+  },
+  {
+    "title": "VGGT: Visual Geometry Grounded Transformer",
+    "authors": "Christian Rupprecht, Andrea Vedaldi, nikkar, silentchen, JianyuanWang",
+    "link": "https://arxiv.org/abs/2503.11651",
+    "pdf_path": "temp_pdfs\\2503.11651.pdf"
+  },
+  {
+    "title": "Neighboring Autoregressive Modeling for Efficient Visual Generation",
+    "authors": "BohanZ, chenfeng1271, shxhe, heyuanyu, yefly",
+    "link": "https://arxiv.org/abs/2503.10696",
+    "pdf_path": "temp_pdfs\\2503.10696.pdf"
+  },
+  {
+    "title": "Learning Few-Step Diffusion Models by Trajectory Distribution Matching",
+    "authors": "Yujun Cai, jingtang, JIACSUN96, whatlegequ, Luo-Yihong",
+    "link": "https://arxiv.org/abs/2503.06674",
+    "pdf_path": "temp_pdfs\\2503.06674.pdf"
+  },
+  {
+    "title": "ProJudge: A Multi-Modal Multi-Discipline Benchmark and\n  Instruction-Tuning Dataset for MLLM-based Process Judges",
+    "authors": "kpzhang996, finyorko, fanrui00, xuzhaopan, lyuukuu",
+    "link": "https://arxiv.org/abs/2503.06553",
+    "pdf_path": "temp_pdfs\\2503.06553.pdf"
+  },
+  {
+    "title": "ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant\n  Tightness",
+    "authors": "Yuliang Xiu, Michael J. Black, Zeyu Cai, Haiwen Feng, Boqian-Li",
+    "link": "https://arxiv.org/abs/2503.10624",
+    "pdf_path": "temp_pdfs\\2503.10624.pdf"
+  },
+  {
+    "title": "Open-World Skill Discovery from Unsegmented Demonstrations",
+    "authors": "Yitao Liang, Anji Liu, Shaofei Cai, zhwang4ai, fatty-belly",
+    "link": "https://arxiv.org/abs/2503.10684",
+    "pdf_path": "temp_pdfs\\2503.10684.pdf"
+  },
+  {
+    "title": "GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories\n  Generation in End-to-End Autonomous Driving",
+    "authors": "Bo Jiang, Yang Hu, Xingyu Zhang, WonderingWorld, XXXXing",
+    "link": "https://arxiv.org/abs/2503.05689",
+    "pdf_path": "temp_pdfs\\2503.05689.pdf"
+  },
+  {
+    "title": "TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree\n  Sequencing",
+    "authors": "Gim Hee Lee, Jiabin Liang, slionar",
+    "link": "https://arxiv.org/abs/2503.11629",
+    "pdf_path": "temp_pdfs\\2503.11629.pdf"
+  },
+  {
+    "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+    "authors": "Nikolaos Livathinos, Maksym Lysak, Matteo Omenetti, Ahmed Nassar, andito",
+    "link": "https://arxiv.org/abs/2503.11576",
+    "pdf_path": "temp_pdfs\\2503.11576.pdf"
+  },
+  {
+    "title": "MaRI: Material Retrieval Integration across Domains",
+    "authors": "Yuxuan Chen, Huixiong Zhang, Yangfan He, yangzhifei, xchrysalis",
+    "link": "https://arxiv.org/abs/2503.08111",
+    "pdf_path": "temp_pdfs\\2503.08111.pdf"
+  },
+  {
+    "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
+    "authors": "wenhu, zhangysk, CongWei, WentaoMa, wren93",
+    "link": "https://arxiv.org/abs/2503.11579",
+    "pdf_path": "temp_pdfs\\2503.11579.pdf"
+  },
+  {
+    "title": "Can Large Reasoning Models do Analogical Reasoning under Perceptual\n  Uncertainty?",
+    "authors": "Abbas Rahimi, Abu Sebastian, Giacomo Camposampiero, Rogrrr, mihoesche",
+    "link": "https://arxiv.org/abs/2503.11207",
+    "pdf_path": "temp_pdfs\\2503.11207.pdf"
+  },
+  {
+    "title": "From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM",
+    "authors": "edinkin, anilkeshwani, sonalsannigrahi, bpop, KshitijAmbilduke",
+    "link": "https://arxiv.org/abs/2503.10620",
+    "pdf_path": "temp_pdfs\\2503.10620.pdf"
+  },
+  {
+    "title": "Group-robust Machine Unlearning",
+    "authors": "Elisa Ricci, Subhankar Roy, massimilianom, stelat, tdemin16",
+    "link": "https://arxiv.org/abs/2503.09330",
+    "pdf_path": "temp_pdfs\\2503.09330.pdf"
+  }
+]
